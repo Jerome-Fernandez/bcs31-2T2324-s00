@@ -3,3 +3,7 @@ Jerome Fernandez
 I joined because of my passion for programming
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 Maecenas porttitor congue massa.
+
+My prior experience is scarce but I completed
+a work immersion program back in senior highschool
+and made a simple game project in Unity
