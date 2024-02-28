@@ -1,3 +1,5 @@
 Jerome Fernandez
 
 I joined because of my passion for programming
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+Maecenas porttitor congue massa.
