@@ -7,3 +7,6 @@ Maecenas porttitor congue massa.
 My prior experience is scarce but I completed
 a work immersion program back in senior highschool
 and made a simple game project in Unity
+
+Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, 
+sit amet commodo magna eros quis urna.
